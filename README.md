@@ -1,8 +1,7 @@
 # WaSender – Bulk WhatsApp Marketing & Automation Tool
 
 **Last major update:** 2022–2025  
-**Developed by:** Engr. Shuvo Das  
-**Company:** [WASendX.com](https://wasendx.com)  
+**Developed by:** Engr. Shuvo Das    
 **Support & Free Trial:** [wa.me/8801765245872](https://wa.me/8801765245872)  
 **Email:** engrshuvoda@gmail.com
 
